@@ -3,7 +3,7 @@
     <title>Krzysztof Hernik</title>
     <link href="https://kherflik.github.io/strona/feed.xml" rel="self" />
     <link href="https://kherflik.github.io/strona" />
-    <updated>2024-06-21T13:03:02+02:00</updated>
+    <updated>2024-06-24T10:31:35+02:00</updated>
     <author>
         <name>Krzysztof Hernik</name>
     </author>
@@ -37,11 +37,24 @@
         <media:content url="https://kherflik.github.io/strona/media/posts/1/Zrzut-ekranu-2024-06-19-135058.png" medium="image" />
 
         <updated>2024-06-21T12:23:42+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://kherflik.github.io/strona/media/posts/1/Zrzut-ekranu-2024-06-19-135058.png" alt="" />
+                    To jest test strony Strona o niczym
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://kherflik.github.io/strona/media/posts/1/Zrzut-ekranu-2024-06-19-135058.png" class="type:primaryImage" alt="" /></p>
                 
+    <h2 id="to-jest-test-strony">
+      To jest test strony
+    </h2>
+
+  <p>
+    Strona o niczym
+  </p>
+
   <div  class="gallery-wrapper">
     <div class="gallery" data-columns="3">
       <figure class="gallery__item">
