@@ -5,39 +5,67 @@
     "home_page_url": "https://kherflik.github.io/strona",
     "feed_url": "https://kherflik.github.io/strona/feed.json",
     "user_comment": "",
+    "icon": "https://kherflik.github.io/strona/media/website/logo.png",
     "author": {
         "name": "Krzysztof Hernik"
     },
     "items": [
         {
-            "id": "https://kherflik.github.io/strona/kontakt/",
-            "url": "https://kherflik.github.io/strona/kontakt/",
+            "id": "https://kherflik.github.io/strona/kontakt-2/",
+            "url": "https://kherflik.github.io/strona/kontakt-2/",
             "title": "Kontakt",
-            "summary": "To jest test strony",
-            "content_html": "<p>To jest test strony</p>\n<p> </p>\n<div class=\"post__iframe\"><iframe width=\"850\" height=\"600\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34778.57224382145!2d16.27781219340583!3d50.99129559854541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470fa9701b5a6077%3A0xe9e4cb321764e036!2sHERKAM%20-%20Krzysztof%20Hernik!5e0!3m2!1spl!2spl!4v1694767063170!5m2!1spl!2spl\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\" referrerpolicy=\"no-referrer-when-downgrade\"></iframe></div>",
-            "image": "https://kherflik.github.io/strona/media/posts/2/Zrzut-ekranu-2024-06-05-141832.png",
+            "summary": "Pracownicza Spółka z o.o. \"GRANIT\" w Strzegomiu 58-150 Strzegom ul. Niepodległości 18 NIP: 884-10-13-815 REGON: 890333399 Nr konta: 86 1090 2343 0000 0005 9800 0527 607-169-622 (biuro)609-143-606 (składowisko odpadów)607-050-296 (Prezes Zarządu) biuro@wysypiemy.pl gps vehicle tracker",
+            "content_html": "<div class=\"page-header\">\n<h1>Pracownicza Spółka z o.o. \"GRANIT\" w Strzegomiu</h1>\n</div>\n<div>\n<h3>58-150 Strzegom ul. Niepodległości 18</h3>\n<h3>NIP: 884-10-13-815</h3>\n<h3>REGON: 890333399</h3>\n<h3>Nr konta: 86 1090 2343 0000 0005 9800 0527</h3>\n</div>\n<hr>\n<div><address><i class=\"icon-home\"></i><strong>607-169-622</strong><small> (biuro)</small></address><address><i class=\"icon-retweet\"></i><strong>609-143-606</strong><small> (składowisko odpadów)</small></address><address><strong>607-050-296</strong><small> (Prezes Zarządu)</small></address><address><i class=\"icon-envelope\"></i><a href=\"mailto:#\"> </a><a href=\"mailto:biuro@wysypiemy.pl\">biuro@wysypiemy.pl</a></address></div>\n<hr>\n<div style=\"width: 100%;\"><div class=\"post__iframe\"><iframe width=\"850\" height=\"600\" style=\"width: 850px; height: 600px;\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Niepodleg%C5%82o%C5%9Bci%2018,%2058-150%20Strzegom+(Pracownicza%20Sp%C3%B3%C5%82ka%20z%20o.o.%20%22GRANIT%22%20w%20Strzegomiu)&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed\"><a href=\"https://www.gps.ie/\">gps vehicle tracker</a></iframe></div></div>",
             "author": {
                 "name": "Krzysztof Hernik"
             },
             "tags": [
             ],
-            "date_published": "2024-06-21T12:45:53+02:00",
-            "date_modified": "2024-06-24T10:33:26+02:00"
+            "date_published": "2024-06-24T13:04:07+02:00",
+            "date_modified": "2024-06-24T13:14:49+02:00"
         },
         {
-            "id": "https://kherflik.github.io/strona/o-mnie/",
-            "url": "https://kherflik.github.io/strona/o-mnie/",
-            "title": "O mnie",
-            "summary": "To jest test strony Strona o niczym",
-            "content_html": "\n    <h2 id=\"to-jest-test-strony\">\n      To jest test strony\n    </h2>\n\n  <p>\n    Strona o niczym\n  </p>\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      <figure class=\"gallery__item\">\n      <a href=\"https://kherflik.github.io/strona/media/posts/1/gallery/22_5903235646737_5903235646744_zeszyt_A5_60k_Slang_01.jpg\" data-size=\"762x1080\">\n        <img loading=\"lazy\" src=\"https://kherflik.github.io/strona/media/posts/1/gallery/22_5903235646737_5903235646744_zeszyt_A5_60k_Slang_01-thumbnail.jpg\" height=\"1020\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://kherflik.github.io/strona/media/posts/1/gallery/22_5903235646737_5903235646744_zeszyt_A5_60k_Slang_02.jpg\" data-size=\"762x1080\">\n        <img loading=\"lazy\" src=\"https://kherflik.github.io/strona/media/posts/1/gallery/22_5903235646737_5903235646744_zeszyt_A5_60k_Slang_02-thumbnail.jpg\" height=\"1020\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://kherflik.github.io/strona/media/posts/1/gallery/22_5903235646737_5903235646744_zeszyt_A5_60k_Slang_03.jpg\" data-size=\"762x1080\">\n        <img loading=\"lazy\" src=\"https://kherflik.github.io/strona/media/posts/1/gallery/22_5903235646737_5903235646744_zeszyt_A5_60k_Slang_03-thumbnail.jpg\" height=\"1020\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure><figure class=\"gallery__item\">\n      <a href=\"https://kherflik.github.io/strona/media/posts/1/gallery/22_5903235646737_5903235646744_zeszyt_A5_60k_Slang_04.jpg\" data-size=\"762x1080\">\n        <img loading=\"lazy\" src=\"https://kherflik.github.io/strona/media/posts/1/gallery/22_5903235646737_5903235646744_zeszyt_A5_60k_Slang_04-thumbnail.jpg\" height=\"1020\" width=\"720\" alt=\"\" >\n      </a>\n      \n    </figure>\n    </div>\n  </div>",
-            "image": "https://kherflik.github.io/strona/media/posts/1/Zrzut-ekranu-2024-06-19-135058.png",
+            "id": "https://kherflik.github.io/strona/cennik/",
+            "url": "https://kherflik.github.io/strona/cennik/",
+            "title": "Cennik",
+            "summary": "Wszystkie ceny podlegają negocjacji? Przy większych ilościach chętnie ponegocjujemy! Ceny ustalane telefonicznie",
+            "content_html": "<section class=\"article-content clearfix\">\n<div class=\"hero-unit\">\n<h1>Wszystkie ceny podlegają negocjacji?<br><small>Przy większych ilościach chętnie ponegocjujemy!</small></h1>\n<figure class=\"img-polaroid\"><img loading=\"lazy\"  src=\"https://wysypiemy.pl/images/cennik.jpg\" alt=\"\" width=\"300\" data-is-external-image=\"true\"></figure>\n<h2>Ceny ustalane telefonicznie</h2>\n</div>\n</section>",
             "author": {
                 "name": "Krzysztof Hernik"
             },
             "tags": [
             ],
-            "date_published": "2024-06-21T12:23:42+02:00",
-            "date_modified": "2024-06-24T10:31:35+02:00"
+            "date_published": "2024-06-24T13:03:02+02:00",
+            "date_modified": "2024-06-24T13:03:02+02:00"
+        },
+        {
+            "id": "https://kherflik.github.io/strona/lista-odpadow/",
+            "url": "https://kherflik.github.io/strona/lista-odpadow/",
+            "title": "Lista odpadów",
+            "summary": "Kod odpadu Rodzaj odpadu Ograniczenia ex 1701 01 Beton Tylko wybrane odpady budowlane i rozbiórkowe* ex 1701 02 Cegły Tylko wybrane odpady budowlane i rozbiórkowe* ex 1701 03 Płytki i ceramika Tylko wybrane odpady budowlane i rozbiórkowe* ex 1701 07 Mieszaniny betonu, cegieł, płytek i&hellip;",
+            "content_html": "<table class=\"table table-hover table-striped table-title table-bordered\" style=\"width: 114.53%;\">\n<thead>\n<tr>\n<th style=\"width: 23.5367%;\">Kod odpadu</th>\n<th style=\"width: 30.1323%;\">Rodzaj odpadu</th>\n<th style=\"width: 46.3309%;\">Ograniczenia</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"width: 23.5367%;\">ex 1701 01</td>\n<td style=\"width: 30.1323%;\">Beton</td>\n<td style=\"width: 46.3309%;\">Tylko wybrane odpady budowlane i rozbiórkowe*</td>\n</tr>\n<tr>\n<td style=\"width: 23.5367%;\">ex 1701 02</td>\n<td style=\"width: 30.1323%;\">Cegły</td>\n<td style=\"width: 46.3309%;\">Tylko wybrane odpady budowlane i rozbiórkowe*</td>\n</tr>\n<tr>\n<td style=\"width: 23.5367%;\">ex 1701 03</td>\n<td style=\"width: 30.1323%;\">Płytki i ceramika</td>\n<td style=\"width: 46.3309%;\">Tylko wybrane odpady budowlane i rozbiórkowe*</td>\n</tr>\n<tr>\n<td style=\"width: 23.5367%;\">ex 1701 07</td>\n<td style=\"width: 30.1323%;\">Mieszaniny betonu, cegieł, płytek i ceramiki</td>\n<td style=\"width: 46.3309%;\">Tylko wybrane odpady budowlane i rozbiórkowe*</td>\n</tr>\n<tr>\n<td style=\"width: 23.5367%;\">ex 1705 04</td>\n<td style=\"width: 30.1323%;\">Gleba i kamienie</td>\n<td style=\"width: 46.3309%;\">Oprócz warstwy uprawnej, torfu; oprócz ziemi i kamieni z miejsc skażonych</td>\n</tr>\n<tr>\n<td style=\"width: 23.5367%;\">ex 2002 02 01</td>\n<td style=\"width: 30.1323%;\">Gleba i kamienie</td>\n<td style=\"width: 46.3309%;\">Wyłącznie odpady ogrodowe i parkowe; oprócz warstwy uprawnej, torfu</td>\n</tr>\n</tbody>\n</table>\n<p>* Wybrane odpady budowlane i rozbiórkowe: z niską zawartością innego rodzaju materiałów (jak metale, tworzywa sztuczne, ziemia, odpady organiczne, drewno, guma itp.): − żadne odpady budowlane zanieczyszczone niebezpiecznymi substancjami nieorganicznymi lub organicznymi, np. ze względu na proces produkcyjny przy pracach budowlanych, skażenie gleby, składowanie i stosowanie pestycydów lub innych substancji niebezpiecznych itd., chyba że zostało w sposób jasny wykazane, że rozbierana konstrukcja nie była znacznie zanieczyszczona, − żadne odpady budowlane, poddane obróbce, pokryte lub malowane materiałami ze znaczną zawartością substancji niebezpiecz-nych.</p>",
+            "author": {
+                "name": "Krzysztof Hernik"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-24T12:51:07+02:00",
+            "date_modified": "2024-06-24T13:02:22+02:00"
+        },
+        {
+            "id": "https://kherflik.github.io/strona/o-firmie/",
+            "url": "https://kherflik.github.io/strona/o-firmie/",
+            "title": "O firmie",
+            "summary": "Co zrobić z odpadami? Teraz to już nie problem. Wysypiesz je u nas! Nasz firma zajmuje się rekultywacją i zagospodarowaniem gruntów w Strzegomiu Zobacz Pełną Listę Odpadów",
+            "content_html": "<h1>Co zrobić z odpadami?</h1>\n<h3>Teraz to już nie problem. Wysypiesz je u nas!</h3>\n<p>Nasz firma zajmuje się rekultywacją i zagospodarowaniem gruntów w Strzegomiu</p>\n<h2>Przyjmiemy odpady</h2>\n<p><a href=\"https://kherflik.github.io/strona/lista-odpadow/\" class=\"btn btn-primary btn-large\"><i class=\"icon-retweet\"></i> Zobacz Pełną Listę Odpadów</a></p>",
+            "image": "https://kherflik.github.io/strona/media/posts/3/pexels-fox-58267-212324-2.jpg",
+            "author": {
+                "name": "Krzysztof Hernik"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-06-24T11:21:40+02:00",
+            "date_modified": "2024-06-24T13:00:37+02:00"
         }
     ]
 }

@@ -588,7 +588,7 @@ textarea {
   }
 }
 .top.is-visible {
-  background: var(--section-bg);
+  background: var(--white);
   -webkit-box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.06);
           box-shadow: 0 3px 10px 0 rgba(0, 0, 0, 0.06);
   opacity: 1;
@@ -814,7 +814,7 @@ textarea {
 .navbar .navbar__menu li {
   font-family: var(--menu-font);
   display: block;
-  font-size: 0.7724761953rem;
+  font-size: 1rem;
   line-height: var(--line-height);
   font-variation-settings: "wght" 500;
   padding: 0;
@@ -1972,7 +1972,7 @@ textarea {
   background: var(--section-bg);
   font-family: var(--menu-font);
   overflow: hidden;
-  padding: calc(3.4rem + 1vw) var(--page-margin);
+  padding: 0;
   margin: calc(2.55rem + 1vw) 0 0;
   text-align: center;
 }
