@@ -3,7 +3,7 @@
     <title>Krzysztof Hernik</title>
     <link href="https://kherflik.github.io/strona/feed.xml" rel="self" />
     <link href="https://kherflik.github.io/strona" />
-    <updated>2024-06-24T10:31:35+02:00</updated>
+    <updated>2024-06-24T10:33:26+02:00</updated>
     <author>
         <name>Krzysztof Hernik</name>
     </author>
@@ -19,11 +19,18 @@
         <media:content url="https://kherflik.github.io/strona/media/posts/2/Zrzut-ekranu-2024-06-05-141832.png" medium="image" />
 
         <updated>2024-06-21T12:45:53+02:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://kherflik.github.io/strona/media/posts/2/Zrzut-ekranu-2024-06-05-141832.png" alt="" />
+                    To jest test strony
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://kherflik.github.io/strona/media/posts/2/Zrzut-ekranu-2024-06-05-141832.png" class="type:primaryImage" alt="" /></p>
-                <div class="post__iframe"><iframe width="850" height="600" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34778.57224382145!2d16.27781219340583!3d50.99129559854541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470fa9701b5a6077%3A0xe9e4cb321764e036!2sHERKAM%20-%20Krzysztof%20Hernik!5e0!3m2!1spl!2spl!4v1694767063170!5m2!1spl!2spl" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
+                <p>To jest test strony</p>
+<p> </p>
+<div class="post__iframe"><iframe width="850" height="600" style="border: 0;" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d34778.57224382145!2d16.27781219340583!3d50.99129559854541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x470fa9701b5a6077%3A0xe9e4cb321764e036!2sHERKAM%20-%20Krzysztof%20Hernik!5e0!3m2!1spl!2spl!4v1694767063170!5m2!1spl!2spl" allowfullscreen="allowfullscreen" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe></div>
             ]]>
         </content>
     </entry>
