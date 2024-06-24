@@ -11,8 +11,8 @@
     },
     "items": [
         {
-            "id": "https://kherflik.github.io/strona/kontakt-2/",
-            "url": "https://kherflik.github.io/strona/kontakt-2/",
+            "id": "https://kherflik.github.io/strona/kontakt/",
+            "url": "https://kherflik.github.io/strona/kontakt/",
             "title": "Kontakt",
             "summary": "Pracownicza Spółka z o.o. \"GRANIT\" w Strzegomiu 58-150 Strzegom ul. Niepodległości 18 NIP: 884-10-13-815 REGON: 890333399 Nr konta: 86 1090 2343 0000 0005 9800 0527 607-169-622 (biuro)609-143-606 (składowisko odpadów)607-050-296 (Prezes Zarządu) biuro@wysypiemy.pl gps vehicle tracker",
             "content_html": "<div class=\"page-header\">\n<h1>Pracownicza Spółka z o.o. \"GRANIT\" w Strzegomiu</h1>\n</div>\n<div>\n<h3>58-150 Strzegom ul. Niepodległości 18</h3>\n<h3>NIP: 884-10-13-815</h3>\n<h3>REGON: 890333399</h3>\n<h3>Nr konta: 86 1090 2343 0000 0005 9800 0527</h3>\n</div>\n<hr>\n<div><address><i class=\"icon-home\"></i><strong>607-169-622</strong><small> (biuro)</small></address><address><i class=\"icon-retweet\"></i><strong>609-143-606</strong><small> (składowisko odpadów)</small></address><address><strong>607-050-296</strong><small> (Prezes Zarządu)</small></address><address><i class=\"icon-envelope\"></i><a href=\"mailto:#\"> </a><a href=\"mailto:biuro@wysypiemy.pl\">biuro@wysypiemy.pl</a></address></div>\n<hr>\n<div style=\"width: 100%;\"><div class=\"post__iframe\"><iframe width=\"850\" height=\"600\" style=\"width: 850px; height: 600px;\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\" frameborder=\"0\" scrolling=\"no\" marginheight=\"0\" marginwidth=\"0\" src=\"https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=Niepodleg%C5%82o%C5%9Bci%2018,%2058-150%20Strzegom+(Pracownicza%20Sp%C3%B3%C5%82ka%20z%20o.o.%20%22GRANIT%22%20w%20Strzegomiu)&amp;t=&amp;z=17&amp;ie=UTF8&amp;iwloc=B&amp;output=embed\"><a href=\"https://www.gps.ie/\">gps vehicle tracker</a></iframe></div></div>",
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2024-06-24T13:04:07+02:00",
-            "date_modified": "2024-06-24T13:36:18+02:00"
+            "date_modified": "2024-06-24T13:38:08+02:00"
         },
         {
             "id": "https://kherflik.github.io/strona/cennik/",
